@@ -1,4 +1,5 @@
 ## Ayudantias de la materia :FUNDAMENTOS DE PROGRAMACION 
+## Comenzando 🚀
 
 <p class="has-line-data" data-line-start="3" data-line-end="4">
   
@@ -14,3 +15,15 @@ Los temas que se daran:</p>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Funciones</li>
 </ul>
 
+# Grupo de Whatsapp
+
+ <a href="https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-4-1.png" title="LINK DEL GRUPO" alt="Pegasus"></a>
+
+LINK=https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr
+
+## Los 5 mejores editores Python
+- <a href=" jetbrains.com/pycharm" target="_blank">**PyCharm**</a>
+- <a href="pydev.org" target="_blank">**PyDev**</a>
+- <a href="spyder-ide.org" target="_blank">**Spyder**</a>
+- <a href="sublimetext.com" target="_blank">**Sublime Text**</a>
+- <a href="atom.io" target="_blank">**Atom**</a>
