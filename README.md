@@ -3,9 +3,16 @@
 
 <p class="has-line-data" data-line-start="3" data-line-end="4">
   
- <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/logo.jpeg?raw=true" title="Pegasus" alt="Pegasus"></a>
+  <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/bienvenidos.png?raw=true" title="Pegasus" alt="Pegasus"></a>
+  
+ <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/python%20verse.png?raw=true" title="Pegasus" alt="Pegasus"></a>
 
 <p class="has-line-data" data-line-start="6" data-line-end="7"><a href="https://travis-ci.org/joemccann/dillinger"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a></p>
+
+
+
+ <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://i.imgur.com/DfQqM.gif" title="LINK DEL GRUPO" alt="Pegasus"></a>
+
 <p class="has-line-data" data-line-start="8" data-line-end="10">Se  dara dos veces a al semana ayudantias,por medio de zoom.Las clases quedaras grabadas y subidas a youtube para su posterior revision.<br>
 Los temas que se daran:</p>
 <ul>
@@ -27,3 +34,31 @@ LINK=https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr
 - <a href="spyder-ide.org" target="_blank">**Spyder**</a>
 - <a href="sublimetext.com" target="_blank">**Sublime Text**</a>
 - <a href="atom.io" target="_blank">**Atom**</a>
+
+## Ayudantes :sparkles:
+<table>
+<tr>
+                <td align="center">
+                    <a href="https://github.com/eljosephavila123">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Joseph%20Avila.jpeg?raw=true" width="100;" alt="akhilmhdh"/>
+                        <br />
+                        <sub><b>Joseph Avila</b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/caloja1014">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Carlos%20Loja.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Carlos Loja </b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/l">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Herbas%20Hopkins.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Herbas Hopkins</b></sub>
+                    </a>
+                </td>
+  
+  </tr>
+</table>
