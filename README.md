@@ -3,9 +3,25 @@
 
 <p class="has-line-data" data-line-start="3" data-line-end="4">
   
- <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/logo.jpeg?raw=true" title="Pegasus" alt="Pegasus"></a>
+  <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/bienvenidos.png?raw=true" title="Pegasus" alt="Pegasus"></a>
+  
+ <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/python%20verse.png?raw=true" title="Pegasus" alt="Pegasus"></a>
 
 <p class="has-line-data" data-line-start="6" data-line-end="7"><a href="https://travis-ci.org/joemccann/dillinger"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a></p>
+
+
+ <a  href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://i.imgur.com/DfQqM.gif" title="LINK DEL GRUPO" alt="Pegasus"  ></a>
+
+
+|   Ayundantes  | Horarios   |  
+|----------|:-------------:|
+| Joseph Avila |  xxxxx|
+| Carlos Loja|    xxxxxx  |
+| Herbas Hopkins | xxxx |
+
+
+    
+
 <p class="has-line-data" data-line-start="8" data-line-end="10">Se  dara dos veces a al semana ayudantias,por medio de zoom.Las clases quedaras grabadas y subidas a youtube para su posterior revision.<br>
 Los temas que se daran:</p>
 <ul>
@@ -15,11 +31,19 @@ Los temas que se daran:</p>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Funciones</li>
 </ul>
 
-# Grupo de Whatsapp
+## Grupo de Whatsapp
 
  <a href="https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-4-1.png" title="LINK DEL GRUPO" alt="Pegasus"></a>
 
 LINK=https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr
+## ZOOM 
+<a href=""><img src="https://d24cgw3uvb9a9h.cloudfront.net/static/93986/image/new/ZoomLogo.png" title="LINK DEL GRUPO" alt="Pegasus"></a>
+
+Unirse a la reunión Zoom
+https://us02web.zoom.us/j/81607917985?pwd=Yk42azZaYTg5VkEwTGZxVm95RDNzUT09
+
+Contraseña: 7UbATJ
+
 
 ## Los 5 mejores editores Python
 - <a href=" jetbrains.com/pycharm" target="_blank">**PyCharm**</a>
@@ -27,3 +51,31 @@ LINK=https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr
 - <a href="spyder-ide.org" target="_blank">**Spyder**</a>
 - <a href="sublimetext.com" target="_blank">**Sublime Text**</a>
 - <a href="atom.io" target="_blank">**Atom**</a>
+
+## Ayudantes :sparkles:
+<table>
+<tr>
+                <td align="center">
+                    <a href="https://github.com/eljosephavila123">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Joseph%20Avila.jpeg?raw=true" width="100;" alt="akhilmhdh"/>
+                        <br />
+                        <sub><b>Joseph Avila</b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/caloja1014">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Carlos%20Loja.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Carlos Loja </b></sub>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/l">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Herbas%20Hopkins.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Herbas Hopkins</b></sub>
+                    </a>
+                </td>
+  
+  </tr>
+</table>
