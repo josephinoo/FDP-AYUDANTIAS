@@ -76,6 +76,13 @@ Contraseña: 7UbATJ
                         <sub><b>Herbas Hopkins</b></sub>
                     </a>
                 </td>
+          <td align="center">
+                    <a href="https://github.com/jaimepizarr">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/jaime.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Jaime Pizarro Barahona</b></sub>
+                    </a>
+                </td>
   
   </tr>
 </table>
