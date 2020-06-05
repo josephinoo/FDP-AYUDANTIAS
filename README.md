@@ -10,8 +10,17 @@
 <p class="has-line-data" data-line-start="6" data-line-end="7"><a href="https://travis-ci.org/joemccann/dillinger"><img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master" alt="Build Status"></a></p>
 
 
+ <a  href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://i.imgur.com/DfQqM.gif" title="LINK DEL GRUPO" alt="Pegasus"  ></a>
 
- <a href="https://github.com/eljosephavila123/FDP-AYUDANTIAS"><img src="https://i.imgur.com/DfQqM.gif" title="LINK DEL GRUPO" alt="Pegasus"></a>
+
+|   Ayundantes  | Horarios   |  
+|----------|:-------------:|
+| Joseph Avila |  xxxxx|
+| Carlos Loja|    xxxxxx  |
+| Herbas Hopkins | xxxx |
+
+
+    
 
 <p class="has-line-data" data-line-start="8" data-line-end="10">Se  dara dos veces a al semana ayudantias,por medio de zoom.Las clases quedaras grabadas y subidas a youtube para su posterior revision.<br>
 Los temas que se daran:</p>
@@ -22,11 +31,19 @@ Los temas que se daran:</p>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Funciones</li>
 </ul>
 
-# Grupo de Whatsapp
+## Grupo de Whatsapp
 
  <a href="https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-4-1.png" title="LINK DEL GRUPO" alt="Pegasus"></a>
 
 LINK=https://chat.whatsapp.com/G3w7tMgIDuDB6j2dAyx4vr
+## ZOOM 
+<a href=""><img src="https://d24cgw3uvb9a9h.cloudfront.net/static/93986/image/new/ZoomLogo.png" title="LINK DEL GRUPO" alt="Pegasus"></a>
+
+Unirse a la reunión Zoom
+https://us02web.zoom.us/j/81607917985?pwd=Yk42azZaYTg5VkEwTGZxVm95RDNzUT09
+
+Contraseña: 7UbATJ
+
 
 ## Los 5 mejores editores Python
 - <a href=" jetbrains.com/pycharm" target="_blank">**PyCharm**</a>
