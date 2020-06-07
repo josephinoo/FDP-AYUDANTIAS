@@ -57,7 +57,7 @@ Contraseña: 7UbATJ
 <tr>
                 <td align="center">
                     <a href="https://github.com/eljosephavila123">
-                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Joseph%20Avila.jpeg?raw=true" width="100;" alt="akhilmhdh"/>
+                        <img src="https://avatars3.githubusercontent.com/u/46098690?s=460&u=1817d397a5a27c2b11053fd052266330fa71061c&v=4" width="100;" alt="akhilmhdh"/>
                         <br />
                         <sub><b>Joseph Avila</b></sub>
                     </a>
@@ -74,6 +74,13 @@ Contraseña: 7UbATJ
                         <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/Herbas%20Hopkins.jpeg?raw=true" width="100;" alt="athul"/>
                         <br />
                         <sub><b>Herbas Hopkins</b></sub>
+                    </a>
+                </td>
+          <td align="center">
+                    <a href="https://github.com/jaimepizarr">
+                        <img src="https://github.com/eljosephavila123/FDP-AYUDANTIAS/blob/master/images/Ayudantes/jaime.jpeg?raw=true" width="100;" alt="athul"/>
+                        <br />
+                        <sub><b>Jaime Pizarro Barahona</b></sub>
                     </a>
                 </td>
   
