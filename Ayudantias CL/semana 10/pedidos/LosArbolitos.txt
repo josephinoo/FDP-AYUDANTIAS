@@ -1,0 +1,6 @@
+producto,libras
+albacora,15
+camaron,10
+mani,5
+verde,15
+langostinos,7

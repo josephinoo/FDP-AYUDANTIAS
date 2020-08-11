@@ -1,0 +1,7 @@
+producto,libras
+albacora,20
+cebolla,6
+langostinos,7
+camaron,10
+picudo,20
+yuca,30

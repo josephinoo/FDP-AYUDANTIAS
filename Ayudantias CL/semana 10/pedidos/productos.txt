@@ -1,0 +1,12 @@
+productos con descuento semanal 10%: langostinos,picudo
+producto precio
+albacora 6.06
+camaron 7.57
+mani 1.14
+verde 0.86
+pimiento 0.24
+tomate 0.14
+cebolla 0.75
+langostinos 9.74
+picudo 4.21
+yuca 0.82

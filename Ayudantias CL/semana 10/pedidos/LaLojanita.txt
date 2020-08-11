@@ -1,0 +1,9 @@
+producto,libras
+albacora,15
+camaron,5
+mani,3
+verde,10
+
+pimiento,4
+tomate,3
+
