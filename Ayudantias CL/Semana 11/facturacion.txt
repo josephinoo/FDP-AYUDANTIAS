@@ -1,0 +1,3 @@
+Planta,enero,febrero,marzo,abril,mayo,junio
+Coca Codo Sinclair,520,487,245,470,832,645
+Sopladora,760,684,940,640,1232,1077
