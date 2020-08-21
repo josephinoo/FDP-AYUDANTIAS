@@ -1,0 +1,8 @@
+Comprador,Vendedor,Categoria,Producto,VentasTotales
+Estados Unidos,Flores,Ecuador,rosas,118568.0
+Holanda,Flores,Japon,tulipanes,2384.0
+Estados Unidos,Flores,Ecuador,girasoles,38284.0
+Estados Unidos,Maderas,Ecuador,abeto,69284.0
+Holanda,Maderas,Japon,cereso,3384.0
+Estados Unidos,Maderas,Ecuador,teca,48284.0
+Estados Unidos,Maderas,Ecuador,cereso,69284.0

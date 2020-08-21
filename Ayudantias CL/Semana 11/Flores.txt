@@ -1,0 +1,5 @@
+Comprador, Vendedor, Producto, UnidadesVendidas, Ventasen$, Fecha
+Estados Unidos,Ecuador,rosas,59284,631432.21,2018-01-10
+Holanda,Japon,tulipanes,2384,12424.87,2017-11-22
+Estados Unidos,Ecuador,girasoles,38284,331432.75,2018-02-01
+Estados Unidos,Ecuador,rosas,59284,631432.21,2018-01-11

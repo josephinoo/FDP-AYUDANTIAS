@@ -1,0 +1,5 @@
+Comprador, Vendedor, Producto, UnidadesVendidas, Ventasen$, Fecha
+Estados Unidos,Ecuador,abeto,69284,631432.21,2018-01-10
+Holanda,Japon,cereso,3384,22424.87,2017-11-22
+Estados Unidos,Ecuador,teca,48284,331432.75,2018-02-01
+Estados Unidos,Ecuador,cereso,69284,631432.21,2018-01-11
