@@ -1,0 +1,6 @@
+Cuenca,temperatura,22
+Guayaquil,precioCasas,130000
+Cuenca,precioCasas,120000
+Bogota,precioCasas,100000
+Bogota,temperatura,20
+Guayaquil,temperatura,29
